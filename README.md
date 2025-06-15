@@ -32,7 +32,7 @@ A responsive social media dashboard that displays statistics from different plat
 
 ### Links
 
-- Live Site URL: [Your live site link here]
+- Live Site URL: [Social Media Dashboard](https://sage-dash.vercel.app/)
 - GitHub Repo: [Social Media Dashboard](https://github.com/Not-Sage/Social-media-dashboard)
 
 ---
